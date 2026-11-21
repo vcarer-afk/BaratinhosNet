@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/BaratinhosNet/',
     plugins: [
       react(),
       tailwindcss(),

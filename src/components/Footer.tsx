@@ -89,8 +89,8 @@ export function Footer() {
           <p className="text-sm leading-relaxed text-sky-100/95 max-w-4xl">
             <strong className="font-semibold text-white">Aviso de Transparência:</strong>{' '}
             O Baratinhos da Internet participa do Programa de Afiliados do Mercado Livre. Ao clicar
-            nos links e realizar uma compra, podemos receber uma comissão sem nenhum custo adicional
-            para você.
+            nos links e realizar uma compra, podemos receber uma pequena comissão sem nenhum custo
+            adicional para você.
           </p>
 
           <p className="text-xs text-sky-200/80">
