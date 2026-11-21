@@ -20,7 +20,7 @@ export const BADGE_PRESETS = [
 
 export const STORAGE_BUCKET_NAME = 'vitrine-images';
 
-export const BRAND_LOGO_URL = `${import.meta.env.BASE_URL}assets/aistudio/916955676_122101487973552338_1821197092919286698_n_f2318c19.jpg`;
+export const BRAND_LOGO_URL = `${import.meta.env.BASE_URL}assets/aistudio/Gemini_Generated_Image_qedvhdqedvhdqedv_45d29dc7.jpg`;
 
 export interface Product {
   id: string;
