@@ -1,0 +1,6 @@
+{
+  "name": "Baratinhos da Internet - Achadinhos do Mercado Livre",
+  "description": "Vitrine curada de achadinhos e ofertas do Mercado Livre com painel administrativo em nuvem via Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
